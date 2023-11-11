@@ -5,4 +5,4 @@
 
 #### Natural Language Processing(자연어 처리)
 - Character-level Convolutional Networks for Text Classification(2016)
-  - [Original Paper Link](https://github.com/Kdavid2355/AI-paper-review/blob/main/Original%20Paper/Character-level%20Convolutional%20Networks%20for%20Text%20Classification.pdf) / Paper Review Video / [Summary PDF](https://github.com/Kdavid2355/AI-paper-review/blob/main/Summary%20of%20paper/Summary%20of%20Convolutional%20Networks%20for%20Text%20Classification.pdf) / Code Practice
+  - [Original Paper Link](https://github.com/Kdavid2355/AI-paper-review/blob/main/Original%20Paper/Character-level%20Convolutional%20Networks%20for%20Text%20Classification.pdf) / Paper Review Video / [Summary PDF](https://github.com/Kdavid2355/AI-paper-review/blob/main/Summary%20of%20paper/Summary%20of%20Convolutional%20Networks%20for%20Text%20Classification.pdf) / Code Practice / [Blog](https://david-kim2028.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A6%AC-CharCNN-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-Character-level-Convolutional-Networks-for-Text-Classification)
